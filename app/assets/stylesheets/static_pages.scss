@@ -26,29 +26,22 @@ body {
 	margin:auto;
 	padding-bottom: 10px;
 }
-nav {
+.navbar {
 	
 	position: fixed;
 	width: 100%;
 	top: 0;
-	height: 8%
+	height: 5px;
 	}
 
 nav ul li{
-	display: inline-block;
-	float:left;
-	padding: 2px 130px 20px;
+	display: inline-block;	
+	padding: 15px 180px 20px;
 	color: white;
 	text-transform: uppercase;
 	font-family: Oswald, Futura, Helvetica, Arial, sans-serif;
-	padding: 15px 180px 33px;
 
-}
-nav ul li a {
-	color: white;
-	text-transform: uppercase;
-	letter-spacing: 0.05em;
-	text-decoration: none;
+
 }
 
 .site-footer {
